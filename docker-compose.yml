@@ -1,0 +1,10 @@
+version: '3'
+services:
+  dc105-jupyter:         
+    image: jupyter/base-notebook
+    container_name: jupyter-notebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./jupyter-dc105:/home/jovyan/work/
+    command: start-notebook.sh --NotebookApp.token=''
