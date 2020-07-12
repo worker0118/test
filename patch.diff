@@ -1,0 +1,38 @@
+From 1b10546ed692ea34867be2d30bd839a0deca0e9a Mon Sep 17 00:00:00 2001
+From: Terry Chen <62493891+worker0118@users.noreply.github.com>
+Date: Sun, 12 Jul 2020 15:02:40 +0800
+Subject: [PATCH] 123
+
+---
+ 新 RTF 文件.rtf          |   1 +
+ 新增 WinRAR 壓縮檔.rar | Bin 0 -> 24 bytes
+ 新文字文件.txt         |   0
+ 3 files changed, 1 insertion(+)
+ create mode 100644 新 RTF 文件.rtf
+ create mode 100644 新增 WinRAR 壓縮檔.rar
+ create mode 100644 新文字文件.txt
+
+diff --git a/新 RTF 文件.rtf b/新 RTF 文件.rtf
+new file mode 100644
+index 0000000..08778d7
+--- /dev/null
++++ b/新 RTF 文件.rtf	
+@@ -0,0 +1 @@
++{\rtf1}
+\ No newline at end of file
+diff --git a/新增 WinRAR 壓縮檔.rar b/新增 WinRAR 壓縮檔.rar
+new file mode 100644
+index 0000000000000000000000000000000000000000..2193513aff00fe5030e585408735b6ffbabb6828
+GIT binary patch
+literal 24
+fcmWGaEK-zWXJj~dKR%3^k%d9FJS>ozm4yKSN{j^!
+
+literal 0
+HcmV?d00001
+
+diff --git a/新文字文件.txt b/新文字文件.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.27.0.windows.1
+
